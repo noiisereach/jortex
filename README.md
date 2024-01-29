@@ -1,2 +1,3 @@
-# jortex
-Advanced Sonoyuncu Cheat.
+# Jortex
+
+1- 
